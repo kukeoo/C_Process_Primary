@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\asus\Desktop\C\Project2\Project2\源.cpp(100,15): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\asus\Desktop\C\Project2\Project2\源.cpp(100,21): warning C4305: “初始化”: 从“int”到“char”截断
+C:\Users\asus\Desktop\C\Project2\Project2\源.cpp(100,15): warning C4309: “初始化”: 截断常量值
+  Project2.vcxproj -> C:\Users\asus\Desktop\C\Project2\Debug\Project2.exe

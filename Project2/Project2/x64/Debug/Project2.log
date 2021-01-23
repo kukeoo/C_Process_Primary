@@ -1,0 +1,10 @@
+﻿  源.cpp
+C:\Users\asus\Desktop\C\Project2\Project2\源.cpp(92,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\asus\Desktop\C\Project2\Project2\源.cpp(92,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\asus\Desktop\C\Project2\Project2\源.cpp(93,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\asus\Desktop\C\Project2\Project2\源.cpp(93,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\asus\Desktop\C\Project2\Project2\源.cpp(94,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\asus\Desktop\C\Project2\Project2\源.cpp(94,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\asus\Desktop\C\Project2\Project2\源.cpp(95,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\asus\Desktop\C\Project2\Project2\源.cpp(95,9): message : 请考虑在格式字符串中使用“%zd”
+  Project2.vcxproj -> C:\Users\asus\Desktop\C\Project2\x64\Debug\Project2.exe
